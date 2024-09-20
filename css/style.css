@@ -1,0 +1,7 @@
+.result {
+    border : solid black 1px;
+    height : 50px;
+    text-align : center;
+    font-weight: bold;
+    padding : 10px;
+}
